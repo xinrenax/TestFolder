@@ -142,10 +142,9 @@ int main()
 	}
 	
 	*/
-	//生成测试数据，范围为0-32567
 	//prepareData(File);
 
-
+	//readData(File, Data, 10000);
 	findTopK(File, heap, 10);
 	for(int i = 10; i >=2 ; i--)
 	{
