@@ -1,3 +1,10 @@
+
+//Top K 问题，用最小堆实现
+/*	
+	xinrenax
+	2013/10/30
+*/
+
 #include<iostream>
 #include<string.h>
 #include<stdio.h>
