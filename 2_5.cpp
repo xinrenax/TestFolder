@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 /*
 	编程之美 2_5
 	最小堆实现
+=======
+
+//Top K 问题，用最小堆实现
+/*	
+	xinrenax
+	2013/10/30
+>>>>>>> parent of ab38e52... revert the commit
 */
 
 #include<iostream>
