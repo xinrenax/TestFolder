@@ -1,3 +1,5 @@
+//it is just a test
+//learning Git
 #include<iostream>
 #include<string.h>
 #include<stdio.h>
